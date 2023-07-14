@@ -1,4 +1,5 @@
 # classification_of_skin_diseases
+# Melanoma Detection
 # Классификация кожных заболеваний заболеваний
 ### - ссылка на датасет: https://www.kaggle.com/datasets/wanderdust/skin-lesion-analysis-toward-melanoma-detection/code?resource=download
 ### - Модель классификации определяет вид кожного заболевания с точностью на валидации 90%
